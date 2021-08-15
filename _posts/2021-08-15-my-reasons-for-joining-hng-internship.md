@@ -16,10 +16,10 @@ Being a developer is more than watching videos and making calculators, that's wh
 
 ## 1. Networking with other developers:
 
-I really don't have experience with working with other developers, i don't even think i have the contacts of up to 5 developers on my phone, i want this to change, i was in contact with a lot of developers before, those being the developers i started coding with, like 8 of them, but i can say not even 2 of them code anymore. shocker abi😂.
+I really don't have experience with working with other developers, I don't even think I have the contacts of up to 5 developers on my phone, I want this to change, I was in contact with a lot of developers before, those being the developers I started coding with, like 8 of them, but I can say not even 2 of them code anymore. shocker abi😂.
 
 ## 2.  I want to improve by working on projects with people:
-One of the mistakes, i made when i started coding and watching tutorial, was that i watched more videos than i coded(which is what people mean when they say [tutorial hell](https://javascript.plainenglish.io/tutorial-hell-how-can-you-escape-it-8a6a7da3ae08?gi=12e5cb58d0ec)), that was one of the reasons i said in the top that "i felt something to be missing", I strongly believe that someone that has watched 2 videos and is applying what they learnt to create anything, is improving at a very fast rate compared to someone watching more videos, in fact from a personal experience ,I can say the person watching more videos isn't improving at all.
+One of the mistakes, I made when I started coding and watching tutorial, was that I watched more videos than I coded(which is what people mean when they say [tutorial hell](https://javascript.plainenglish.io/tutorial-hell-how-can-you-escape-it-8a6a7da3ae08?gi=12e5cb58d0ec)), that was one of the reasons I said in the top that "I felt something to be missing", I strongly believe that someone that has watched 2 videos and is applying what they learnt to create anything, is improving at a very fast rate compared to someone watching more videos, in fact from a personal experience , I can say the person watching more videos isn't improving at all.
 
 ## 3. Working with other developers and creating projects together:
 Just like what i said in the previous paragraph, working on project is one of the many ways to improve as a developer, you know what is more better, working on projects with people, since I'm not in contact with many developers, this was proving difficult, until i learnt about HNG, with the HNG internship, I'm hoping to be able to work on projects, improve my skills and learn more about interacting with other developers.
@@ -28,7 +28,7 @@ Just like what i said in the previous paragraph, working on project is one of th
 **Thanks for persisting till the end:)..**
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzNzg5NTEyNSwxMDMzNTgxODk1LDE2MD
+eyJoaXN0b3J5IjpbMTg2OTczNTQ1OSwxMDMzNTgxODk1LDE2MD
 c2MTk1MzYsMTMxNzE4MDg0NCwtNjA3NTIxODU0LC0xNjE1NzU1
 NjU3XX0=
 -->
