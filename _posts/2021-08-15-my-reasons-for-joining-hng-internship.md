@@ -14,7 +14,7 @@ Being a developer is more than watching videos and making calculators, that's wh
 
 ## Working with other developers
 
-I really don't have experience with working with other devepe
+I really don't have experience with working with other developers, i don't even think i have the contacts of up to 5 developers on my phone, i want this to change, i was in contact with a lot of devel
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTAzNjI4MzhdfQ==
+eyJoaXN0b3J5IjpbLTE1MzAyNDg1MjJdfQ==
 -->
