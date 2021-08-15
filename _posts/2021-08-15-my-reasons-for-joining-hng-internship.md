@@ -1,3 +1,8 @@
+---
+title: "My goals and reasons for joining the HNG internship"
+date: 2021-08-15
+---
+
 ![Why I joined the HNG internship](https://images.unsplash.com/photo-1507525428034-b723cf961d3e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=all&h=2000&q=80)
 
 ###  Why I joined the [HNG](https://internship.zuri.team) internship and the goals I want to achieve by the end of the internship
