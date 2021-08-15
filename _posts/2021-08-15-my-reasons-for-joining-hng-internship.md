@@ -24,9 +24,12 @@ Just like what i said in the previous paragraph, working on project is one of th
 
 
 **Linking up?**
-You k nw
+I'm interested in making new friends, so follow me on everywhere
+
+ - Figma
+ - 
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzA1ODIxNjksLTE2MTU3NTU2NTddfQ==
+eyJoaXN0b3J5IjpbMzI3NDE3ODU3LC0xNjE1NzU1NjU3XX0=
 -->
