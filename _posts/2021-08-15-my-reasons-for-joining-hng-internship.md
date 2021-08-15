@@ -23,16 +23,11 @@ One of the mistakes, i made when i started coding and watching tutorial, was tha
 
 ## 3. Working with other developers and creating projects together:
 Just like what i said in the previous paragraph, working on project is one of the many ways to improve as a developer, you know what is more better, working on projects with people, since I'm not in contact with many developers, this was proving difficult, unless i learnt about hng, with the hng internship, I'm hoping to be able to working on projects with my existing knowledge and new colleagues.
+ 
 
-
-**Linking up?**
-I'm interested in making new friends, so follow me on everywhere
-
- - Ti=witte
- - 
-
+**Thanks for persisting till the end:)..**
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQ2Njg2MjQwLC02MDc1MjE4NTQsLTE2MT
-U3NTU2NTddfQ==
+eyJoaXN0b3J5IjpbMTMxNzE4MDg0NCwtNjA3NTIxODU0LC0xNj
+E1NzU1NjU3XX0=
 -->
