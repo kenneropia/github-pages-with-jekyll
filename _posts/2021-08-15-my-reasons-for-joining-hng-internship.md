@@ -12,11 +12,11 @@ It got to a point, i realized, i needed to concentrate/focus; have an area of sp
 ## But you know what:
 Being a developer is more than watching videos and making calculators, that's when i discovered the HNG internship on [twitter](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwif1JWXo7PyAhWkQUEAHXM-DKsQFnoECAMQAQ&url=https://twitter.com/hnginternship/status/1382937218164097024&usg=AOvVaw1NyM0e0W364rYIHucjKGub), and i knew that was what i needed. To be honest, we also have something called Developer's Student's Club(DSC) in my school, I'm going to assume they are similar, but HNG being the remote own felt more interesting.
 
-# My reasons for joining the hng internship:
+# # The goals I hope to have achieve after i'm done with it:
 
 ## 1. Networking with other developers:
 
-I really don't have experience with working with other developers, i don't even think i have the contacts of up to 5 developers on my phone, i want this to change, i was in contact with a lot of developers before, that was the developers i started coding with, like 8 of them, but i can say not even 2 of them code anymore. shocker abi😂.
+I really don't have experience with working with other developers, i don't even think i have the contacts of up to 5 developers on my phone, i want this to change, i was in contact with a lot of developers before, those being the developers i started coding with, like 8 of them, but i can say not even 2 of them code anymore. shocker abi😂.
 
 ## 2. I wasn't improving at all:
 One of the mistakes, i made when i started coding and watching tutorial, was that i watched more videos than i coded(which is what people mean when they say tutorial hell), that was one of the reasons i said in the top that "i felt something to be missing", while in reality someone that has watched 2 videos and is applying what they learnt to create anything, is improving at a very fast rate compared to someone watching more video, in fact from a personal experience the person watching more video isn't improving at all.
@@ -28,7 +28,7 @@ Just like what i said in the previous paragraph, working on project is one of th
 **Thanks for persisting till the end:)..**
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzNjk4NzgwMywxMDMzNTgxODk1LDE2MD
-c2MTk1MzYsMTMxNzE4MDg0NCwtNjA3NTIxODU0LC0xNjE1NzU1
-NjU3XX0=
+eyJoaXN0b3J5IjpbLTE0MTkxNDQ1MTAsMTAzMzU4MTg5NSwxNj
+A3NjE5NTM2LDEzMTcxODA4NDQsLTYwNzUyMTg1NCwtMTYxNTc1
+NTY1N119
 -->
