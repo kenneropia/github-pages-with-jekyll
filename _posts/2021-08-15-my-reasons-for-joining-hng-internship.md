@@ -7,7 +7,7 @@ My name is Aaron Kehinde Adetunmbi, and I'm a full-stack developer, i have been 
 ## I have used/watch a lot of tutorials:
 
 like a lot, especially on webdev, also some on [UI/UX design](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjV_Oe_7rLyAhUKxoUKHcMZBlIQwqsBegQIBhAB&url=https://www.youtube.com/watch?v=jk1T0CdLxwU&usg=AOvVaw18hN3JK2ybN3j5javPK6eE) (when i started, i tried to learn UI/UX  design) and others.
-It got to a point, i realized, i needed to concentrate/focus; as in have an area of specialization, so i decided to go into web development and only that. So i started watching videos on [different aspect of webdev](https://en.wikipedia.org/wiki/Outline_of_web_design_and_web_development). For version control, i watched a tutorial on [Git](https://www.youtube.com/watch?v=3RjQznt-8kE) and for HTML 5 and CSS, i  watched [this tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9ivBf_eKCPIAYXWzLlPAm6G).
+It got to a point, i realized, i needed to concentrate/focus; have an area of specialization, so i decided to go into web development and only that. So I started watching videos on [different aspects of webdev](https://en.wikipedia.org/wiki/Outline_of_web_design_and_web_development). For version control, i watched a tutorial on [Git](https://www.youtube.com/watch?v=3RjQznt-8kE), also for HTML 5 and CSS, i  watched [this tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9ivBf_eKCPIAYXWzLlPAm6G).
 
 ## But you know what:
 Being a developer is more than watching videos and making calculators, that's when i discovered the HNG internship on [twitter](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwif1JWXo7PyAhWkQUEAHXM-DKsQFnoECAMQAQ&url=https://twitter.com/hnginternship/status/1382937218164097024&usg=AOvVaw1NyM0e0W364rYIHucjKGub), and i knew that was what i needed. To be honest, we also have something called Developer Student Club(DSC) in my school, I'm going to assume they are similar, but hng being the remote own felt more interesting.
@@ -28,7 +28,7 @@ Just like what i said in the previous paragraph, working on project is one of th
 **Thanks for persisting till the end:)..**
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwODI3MDY1MywxMDMzNTgxODk1LDE2MD
+eyJoaXN0b3J5IjpbLTk5NDMyOTAyOSwxMDMzNTgxODk1LDE2MD
 c2MTk1MzYsMTMxNzE4MDg0NCwtNjA3NTIxODU0LC0xNjE1NzU1
 NjU3XX0=
 -->
