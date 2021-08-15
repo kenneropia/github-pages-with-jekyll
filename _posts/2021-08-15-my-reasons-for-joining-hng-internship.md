@@ -1,6 +1,6 @@
 ![Why I joined the Hng internship](https://images.unsplash.com/photo-1507525428034-b723cf961d3e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=all&h=2000&q=80)
 
-## <center> Why I joined the [Hng](https://internship.zuri.team/enrollment) internship </center>
+##  Why I joined the [HNG](https://internship.zuri.team/enrollment) internship 
 
 My name is Aaron Kehinde Adetunmbi, and I'm a full-stack programmer, i have been coding for a while now, but to be honest i have always felt something to be missing.
 
@@ -20,7 +20,13 @@ I really don't have experience with working with other developers, i don't even 
 One of the mistakes, i made when i started coding and watching tutorial, was that i watched more videos than i coded(which is what people mean when they say tutorial hell), that was one of the reasons i said in the top that "i felt something to be missing", while in reality someone that has watched 2 videos and is applying what they learnt to create anything, is improving at a very fast rate compared to someone watching more video, in fact from a personal experience the person watching more video isn't improving at all.
 
 ## Working with other developers and creating projects together:
-Just like what i said in the previous paragraph, working on project is one of the many ways to improve as a developer, you know what is more better, working on projects with people, since I'm not in contact with many developers, this was proving difficult, unless i learnt about hng, with the hng internship, I'm hoping to be able to working on projects with my existing knowledge and 
+Just like what i said in the previous paragraph, working on project is one of the many ways to improve as a developer, you know what is more better, working on projects with people, since I'm not in contact with many developers, this was proving difficult, unless i learnt about hng, with the hng internship, I'm hoping to be able to working on projects with my existing knowledge and new colleagues.
+
+
+**Linking up?**
+You k nw
+
+ 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTU3NTU2NTddfQ==
+eyJoaXN0b3J5IjpbMzA1ODIxNjksLTE2MTU3NTU2NTddfQ==
 -->
