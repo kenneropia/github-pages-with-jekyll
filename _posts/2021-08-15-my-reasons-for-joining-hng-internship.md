@@ -1,5 +1,11 @@
 ![enter image description here](https://images.unsplash.com/photo-1507525428034-b723cf961d3e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=all&h=2000&q=80)
-Why I joined the HNG 
+
+## Why I joined the Hng internship
+```xml
+<p style="text-align: center;">Centered text</p>
+
+```
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2MzU3NTEyNV19
+eyJoaXN0b3J5IjpbLTEyMjg4NTIxNTddfQ==
 -->
