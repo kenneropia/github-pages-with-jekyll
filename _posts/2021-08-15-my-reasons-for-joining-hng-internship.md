@@ -1,6 +1,6 @@
 ![Why I joined the Hng internship](https://images.unsplash.com/photo-1507525428034-b723cf961d3e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=all&h=2000&q=80)
 
-##  Why I joined the [HNG](https://internship.zuri.team) internship 
+##  Why I joined the [HNG](https://internship.zuri.team) internship and the goals i want to achieve by the end of the internship
 
 My name is Aaron Kehinde Adetunmbi, and I'm a full-stack programmer, i have been coding for a while now, but to be honest i have always felt something to be missing.
 
@@ -28,6 +28,6 @@ Just like what i said in the previous paragraph, working on project is one of th
 **Thanks for persisting till the end:)..**
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxNzE4MDg0NCwtNjA3NTIxODU0LC0xNj
-E1NzU1NjU3XX0=
+eyJoaXN0b3J5IjpbMTYwNzYxOTUzNiwxMzE3MTgwODQ0LC02MD
+c1MjE4NTQsLTE2MTU3NTU2NTddfQ==
 -->
