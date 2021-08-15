@@ -20,7 +20,7 @@ I really don't have experience with working with other developers, i don't even 
 One of the mistakes, i made when i started coding and watching tutorial, was that i watched more videos than i coded(which is what people mean when they say tutorial hell), that was one of the reasons i said in the top that "i felt something to be missing", while in reality someone that has watched 2 videos and is applying what they learnt to create anything, is improving at a very fast rate compared to someone watching more video, in fact from a personal experience the person watching more video isn't improving at all.
 
 ## Working with other developers and creating projects together:
-Just like what i said in the previous paragraph, working on project is one of
+Just like what i said in the previous paragraph, working on project is one of the many ways to improve as a developer, you know what is more better, working on projects with people, since I'm not in contact with many developers, this was  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxNjk2OTQ0OF19
+eyJoaXN0b3J5IjpbLTk3NDcwMDM5MF19
 -->
