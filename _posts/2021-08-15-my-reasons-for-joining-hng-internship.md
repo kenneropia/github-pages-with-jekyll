@@ -7,8 +7,8 @@ My name is Aaron Kehinde Adetunmbi, and I'm a full-stack programmer, i have been
  <h3>I have used/watch a lot of tutorials: </h3>
 
 like a lot, especially on webdev, also some no [design](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjV_Oe_7rLyAhUKxoUKHcMZBlIQwqsBegQIBhAB&url=https://www.youtube.com/watch?v=jk1T0CdLxwU&usg=AOvVaw18hN3JK2ybN3j5javPK6eE) (when i started, i tried to learn design) and others.
-It got to a point, i realized, i needed to focus as in have an area of specialization, so i decided to go into web development and only that. So i started watching videos on different aspect of webdev. For version control, i watched a tutorial on git
+It got to a point, i realized, i needed to focus as in have an area of specialization, so i decided to go into web development and only that. So i started watching videos on different aspect of webdev. For version control, i watched a tutorial on [git](https://www.youtube.com/watch?v=3RjQznt-8kE), for HTML 5, i  watch this 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODg2NjUzMzA2XX0=
+eyJoaXN0b3J5IjpbLTE3OTA0Mjg1ODFdfQ==
 -->
