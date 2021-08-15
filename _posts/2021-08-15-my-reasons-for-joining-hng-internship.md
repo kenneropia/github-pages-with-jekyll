@@ -10,7 +10,7 @@ like a lot, especially on webdev, also some on [UI/UX design](https://www.google
 It got to a point, i realized, i needed to focus; as in have an area of specialization, so i decided to go into web development and only that. So i started watching videos on [different aspect of webdev](https://en.wikipedia.org/wiki/Outline_of_web_design_and_web_development). For version control, i watched a tutorial on [Git](https://www.youtube.com/watch?v=3RjQznt-8kE) and for HTML 5 and CSS, i  watched [this tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9ivBf_eKCPIAYXWzLlPAm6G).
 
 ## But you know what:
-Being a developer is more than watching videos and making calculators, that's when i discovered the HNG internship on tweet, and i knew that was what i needed. To be honest, we also have something called Developer Student Club(DSC) in my school, I'm going to assume they are similar, but hng being the remote own felt more interesting.
+Being a developer is more than watching videos and making calculators, that's when i discovered the HNG internship on [twitter](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwif1JWXo7PyAhWkQUEAHXM-DKsQFnoECAMQAQ&url=https://twitter.com/hnginternship/status/1382937218164097024&usg=AOvVaw1NyM0e0W364rYIHucjKGub), and i knew that was what i needed. To be honest, we also have something called Developer Student Club(DSC) in my school, I'm going to assume they are similar, but hng being the remote own felt more interesting.
 
 # My reasons for joining the hng internship:
 
@@ -28,6 +28,6 @@ Just like what i said in the previous paragraph, working on project is one of th
 **Thanks for persisting till the end:)..**
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTk4MjA1MTUsMTYwNzYxOTUzNiwxMz
-E3MTgwODQ0LC02MDc1MjE4NTQsLTE2MTU3NTU2NTddfQ==
+eyJoaXN0b3J5IjpbMTAzMzU4MTg5NSwxNjA3NjE5NTM2LDEzMT
+cxODA4NDQsLTYwNzUyMTg1NCwtMTYxNTc1NTY1N119
 -->
