@@ -7,7 +7,7 @@ date: 2021-08-15
 
 ###  Why I joined the [HNG](https://internship.zuri.team) internship and the goals I want to achieve by the end of the internship
 
-My name is Aaron Kehinde Adetunmbi, and I'm a full-stack developer, I have been coding for a while now, but to be honest I have always felt something to be missing.
+My name is Aaron Kehinde Adetunmbi, and I'm a front-end developer, I have been coding for a while now, but to be honest I have always felt something to be missing.
 
 ## I have seen a lot of tutorials:
 
@@ -29,6 +29,8 @@ One of the mistakes, I made when I started coding and watching tutorial, was tha
 ## 3. Working with other developers and creating projects together:
 Just like what i said in the previous paragraph, working on project is one of the many ways to improve as a developer, you know what is more better, working on projects with people, since I'm not in contact with many developers, this was proving difficult, until I learnt about HNG, with the HNG internship, I'm hoping to be able to work on projects, improve my skills and learn more about interacting with other developers.
  
+ 
+ ## My chosen stack: Just like I said in the beginning, I am a front-end developer with experience in react, nextjs and react-query.
 
 **Thanks for persisting till the end:)..**
  
