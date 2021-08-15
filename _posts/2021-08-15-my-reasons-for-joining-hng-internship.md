@@ -2,8 +2,8 @@
 
 ## <center> Why I joined the Hng internship </center>
 
-My name is Aaron Kehinde Adetunmbi, and I'm a full-stack programmer, i have been coding for a while now, but to be honest i have always felt something to be missing, i have watched a lot of video, like a lot, especially on javascript  
+My name is Aaron Kehinde Adetunmbi, and I'm a full-stack programmer, i have been coding for a while now, but to be honest i have always felt something to be missing, i have watched a lot of video, like a lot, especially on javascript; like ![netninja](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjk7sOH7rLyAhUQCxoKHezODQsQtwJ6BAgFEAM&url=https://www.youtube.com/watch?v=iWOYAxlnaww&usg=AOvVaw3B-U2DxxEqLA6LUTMjNCSV) 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2NTU4ODQwOF19
+eyJoaXN0b3J5IjpbLTE1NjA1NzQ0MTJdfQ==
 -->
