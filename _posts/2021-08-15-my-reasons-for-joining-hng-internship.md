@@ -2,8 +2,8 @@
 
 ## <center> Why I joined the Hng internship </center>
 
-My name is Aaron Kehinde Adetunmbi, and I'm a full-stack programmer 
+My name is Aaron Kehinde Adetunmbi, and I'm a full-stack programmer, i have been coding for a while now, but to be honest i have alwat
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3MzU2OTY2MF19
+eyJoaXN0b3J5IjpbLTE3MzA1OTMzOThdfQ==
 -->
