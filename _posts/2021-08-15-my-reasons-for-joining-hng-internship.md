@@ -10,7 +10,11 @@ like a lot, especially on webdev, also some no [design](https://www.google.com/u
 It got to a point, i realized, i needed to focus; as in have an area of specialization, so i decided to go into web development and only that. So i started watching videos on different aspect of webdev. For version control, i watched a tutorial on [Git](https://www.youtube.com/watch?v=3RjQznt-8kE) and for HTML 5 and CSS, i  watched [this](https://www.youtube.com/playlist?list=PL4cUxeGkcC9ivBf_eKCPIAYXWzLlPAm6G).
 
 ## But you know what:
-Being a developer is more than watching videos and making calculators, that's when i discovered the HNG internship on tweet, and i knew that was what i needed. To be honest, we also have something called Developer Student Club(DSC), I'm going to assume they are similar, but hng 
+Being a developer is more than watching videos and making calculators, that's when i discovered the HNG internship on tweet, and i knew that was what i needed. To be honest, we also have something called Developer Student Club(DSC), I'm going to assume they are similar, but hng being the remote own felt more interesting.
+
+## Working with other developers
+
+I really don't have experience with working with other devepe
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3Nzg5NTUxNl19
+eyJoaXN0b3J5IjpbLTE5OTAzNjI4MzhdfQ==
 -->
