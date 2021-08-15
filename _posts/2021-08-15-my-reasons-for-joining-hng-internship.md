@@ -1,6 +1,6 @@
 ![Why I joined the Hng internship](https://images.unsplash.com/photo-1507525428034-b723cf961d3e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=all&h=2000&q=80)
 
-##  Why I joined the [HNG](https://internship.zuri.team/enrollment) internship 
+##  Why I joined the [HNG](https://internship.zuri.team) internship 
 
 My name is Aaron Kehinde Adetunmbi, and I'm a full-stack programmer, i have been coding for a while now, but to be honest i have always felt something to be missing.
 
@@ -31,5 +31,5 @@ I'm interested in making new friends, so follow me on everywhere
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzI3NDE3ODU3LC0xNjE1NzU1NjU3XX0=
+eyJoaXN0b3J5IjpbLTYwNzUyMTg1NCwtMTYxNTc1NTY1N119
 -->
