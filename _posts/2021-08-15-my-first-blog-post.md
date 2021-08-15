@@ -1,6 +1,6 @@
 ---
 title: "My first post"
-data: 2021-08-15
+date: 2021-08-15
 ---
 ##  Hi this is my first page on my blog
 
