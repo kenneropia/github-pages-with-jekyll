@@ -9,7 +9,7 @@ date: 2021-08-15
 
 My name is Aaron Kehinde Adetunmbi, and I'm a full-stack developer, I have been coding for a while now, but to be honest I have always felt something to be missing.
 
-## I have used/watch a lot of tutorials:
+## I have seen a lot of tutorials:
 
 like a lot, especially on webdev, also some on [UI/UX design](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjV_Oe_7rLyAhUKxoUKHcMZBlIQwqsBegQIBhAB&url=https://www.youtube.com/watch?v=jk1T0CdLxwU&usg=AOvVaw18hN3JK2ybN3j5javPK6eE) (when I started, I tried to learn UI/UX  design) and others.
 It got to a point, I realized, I needed to concentrate/focus; have an area of specialization, so I decided to go into web development and only that. So I started watching videos on [different aspects of webdev](https://en.wikipedia.org/wiki/Outline_of_web_design_and_web_development). For version control, I watched a tutorial on [Git](https://www.youtube.com/watch?v=3RjQznt-8kE), also for HTML 5 and CSS, I watched [this tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9ivBf_eKCPIAYXWzLlPAm6G) and for javascript, I used a lot because some concepts were hard to understand so I watched a lot of videos, but is I had to choose it would be this [Udemy course](https://www.udemy.com/course/javascript-essentials/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-ZvTNX7lgHIqYAfjFJXZI4A&utm_medium=udemyads&utm_source=aff-campaign).
