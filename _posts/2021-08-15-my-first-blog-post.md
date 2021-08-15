@@ -1,6 +1,6 @@
 ---
 title: "My first post"
-data: 2021-08-15
+data: YYYY-MM-DD
 ---
 ##  Hi this is my first page on my blog
 
@@ -14,6 +14,6 @@ Thanks for reading my blog tbh this wasn't really that much of a post, it was ma
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjM1ODA1ODcsMTU0ODgwOTIxNSwyMT
-M2Njc2MDZdfQ==
+eyJoaXN0b3J5IjpbMjE0NDY1MjkxMCwtMTUyMzU4MDU4NywxNT
+Q4ODA5MjE1LDIxMzY2NzYwNl19
 -->
