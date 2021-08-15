@@ -12,12 +12,12 @@ It got to a point, i realized, i needed to focus; as in have an area of speciali
 ## But you know what:
 Being a developer is more than watching videos and making calculators, that's when i discovered the HNG internship on tweet, and i knew that was what i needed. To be honest, we also have something called Developer Student Club(DSC) in my school, I'm going to assume they are similar, but hng being the remote own felt more interesting.
 
-## Working with other developers
+## Networking with other developers:
 
+I really don't have experience with working with other developers, i don't even think i have the contacts of up to 5 developers on my phone, i want this to change, i was in contact with a lot of developers before, that was the developers i started coding with, like 8 of them, but i can say not even 2 of them code anymore. shocker abi😂.
 
-## Networking with others developers
-
-I really don't have experience with working with other developers, i don't even think i have the contacts of up to 5 developers on my phone, i want this to change, i was in contact with a lot of developers before, that was the developers i started coding with, like 8 of them, but i can say not even 2 of them code anymore. shocker abi.
+## Working with other developers and creating projects together:
+One of the mistakes, i made when i started 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTUzNzg2MjFdfQ==
+eyJoaXN0b3J5IjpbMTkyNzcyOTM5Ml19
 -->
