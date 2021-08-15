@@ -16,9 +16,11 @@ Being a developer is more than watching videos and making calculators, that's wh
 
 I really don't have experience with working with other developers, i don't even think i have the contacts of up to 5 developers on my phone, i want this to change, i was in contact with a lot of developers before, that was the developers i started coding with, like 8 of them, but i can say not even 2 of them code anymore. shocker abi😂.
 
-## I wasn't improving a
+## I wasn't improving at all:
 One of the mistakes, i made when i started coding and watching tutorial, was that i watched more videos than i coded(which is what people mean when they say tutorial hell), that was one of the reasons i said in the top that "i felt something to be missing", while in reality someone that has watched 2 videos and is applying what they learnt to create anything, is improving at a very fast rate compared to someone watching more video, in fact from a personal experience the person watching more video isn't improving at all.
 
+## Working with other developers and creating projects together:
+Just like what i said in the previous paragraph, working on project is one of
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2OTE3NTQ3MV19
+eyJoaXN0b3J5IjpbMTkxNjk2OTQ0OF19
 -->
